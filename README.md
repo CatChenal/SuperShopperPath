@@ -8,8 +8,8 @@ Proof of concept for a real app I want to build
 # Details:
 ### Proof of concept:
 
-* User generates a supermarket floor plan from memory on a canvas using labeled rectangles to represent locations.
-  ** Save to json, example:
+* User generates a supermarket floor plan from memory on a canvas using labeled rectangles to represent locations.  
+  ** Save to json; example:
   ```
   # market_XYZ.json:
   [
